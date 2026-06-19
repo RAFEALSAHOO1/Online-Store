@@ -1,0 +1,6 @@
+{
+  "name": "LuxeCart Pro",
+  "description": "Luxury Full-Stack E-Commerce Platform with elegant styling and powerful administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
